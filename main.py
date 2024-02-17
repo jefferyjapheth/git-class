@@ -5,4 +5,4 @@ year = int(input("What year were you born?: "))
 
 age = 2024 - year
 
-print(f"Hello {name}, you are {age} years old")
+print(f"Your name is {name} and you are {year} years old")
